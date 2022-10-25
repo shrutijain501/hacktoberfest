@@ -1,4 +1,4 @@
-public class GFG {
+public class PalindromeString {
  
     // Method
     // Returning true if string is palindrome
