@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Collections;
  
-class GFG {
+class AnagramString {
  
     /* function to check whether two strings are
     anagram of each other */
