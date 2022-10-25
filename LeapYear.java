@@ -20,8 +20,8 @@ class LeapYear
 		Scanner s = new Scanner(System.in);
 		int x = s.nextInt();
 		if(leapYear(x))
-			System.out.println(x + " is leap Year");
+			System.out.println(x + " is Leap Year");
 		else 
-			System.out.println(x + " is not an leap Year");
+			System.out.println(x + " is not an Leap Year");
 	}
 }
